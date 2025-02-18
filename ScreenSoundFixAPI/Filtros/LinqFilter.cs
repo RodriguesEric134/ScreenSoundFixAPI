@@ -1,7 +1,7 @@
 ﻿using ScreenSoundFixAPI.Modelos;
 using System.Linq;
 namespace ScreenSoundFixAPI.Filtros;
-
+// VAMO GIT PORRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 internal class LinqFilter
 {
     public static void FiltrarTodosOsGenerosMusicais(List<Musica> musicas)
